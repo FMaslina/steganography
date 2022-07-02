@@ -1,0 +1,12 @@
+cffi==1.15.1
+click==8.1.3
+colorama==0.4.5
+crayons==0.4.0
+cryptography==37.0.2
+numpy==1.23.0
+opencv-python==4.6.0.66
+piexif==1.1.3
+Pillow==9.2.0
+pycparser==2.21
+stegano==0.10.2
+steganocryptopy==0.1.2
